@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.24)
-project(M2OEP_avece)
+project(Playlist_Maker)
 
 set(CMAKE_CXX_STANDARD 14)
 
